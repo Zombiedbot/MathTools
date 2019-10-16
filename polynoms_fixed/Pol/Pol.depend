@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1569991549 source:f:\projects\pol\headers.cpp
+	"headers.h"
+	<iostream>
+
+1569990110 f:\projects\pol\headers.h
+
+1569991598 source:f:\projects\pol\main.cpp
+	<fstream>
+	<cstdlib>
+	<iostream>
+	"headers.h"
+
